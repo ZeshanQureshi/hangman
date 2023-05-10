@@ -4,11 +4,11 @@ Welcome to Hangman!
 
 ## Running the Program
 
-Download the repository code. From a console, navigate to the directory with the repository code and run the command "ruby lib/hangman.rb"
+Download the repository code. From a console, navigate to the directory with the repository code and run the command **ruby lib/hangman.rb**
 
 ## How it Works
 
-The file "dictionary.txt" contains 10 000 words. The program will choose a random word from the file between 5 and 12 characters long.
+The file **dictionary.txt** contains 10 000 words. The program will choose a random word from the file between 5 and 12 characters long.
 
 Each turn, the player will try to guess the word by guessing letters. If the letter is correct, it will appear in the letter board. If the letter is incorrect, it will appear in the guesses letters board and the player will increment the incorrect guess counter (indicated to the player by the hangman). 
 
