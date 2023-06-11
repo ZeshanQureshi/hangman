@@ -6,6 +6,8 @@ Welcome to Hangman!
 
 Download the repository code. From a console, navigate to the directory with the repository code and run the command **ruby lib/hangman.rb**
 
+Alternatively, click here to [run the project using Replit](https://replit.com/@ZeshanQureshi/Hangman). 
+
 ## How it Works
 
 The file **dictionary.txt** contains 10 000 words. The program will choose a random word from the file between 5 and 12 characters long.
